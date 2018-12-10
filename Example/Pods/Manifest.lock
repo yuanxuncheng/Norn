@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Norn (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase (~> 2.1.4)
+  - Norn (from `../`)
+
+EXTERNAL SOURCES:
+  Norn:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Norn: b4c13e90cffdf410b87df54514162db4f77103c5
+
+PODFILE CHECKSUM: d73edbe82c262ef43997e29e03720002f830971c
+
+COCOAPODS: 1.4.0

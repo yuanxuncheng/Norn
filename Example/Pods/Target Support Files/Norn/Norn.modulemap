@@ -1,0 +1,6 @@
+framework module Norn {
+  umbrella header "Norn-umbrella.h"
+
+  export *
+  module * { export * }
+}

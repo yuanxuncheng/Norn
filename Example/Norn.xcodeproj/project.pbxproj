@@ -42,10 +42,10 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		85487C8B736161697792EA00 /* Pods-Norn_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Norn_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-Norn_Example/Pods-Norn_Example.release.xcconfig"; sourceTree = "<group>"; };
-		8732AED256E6CB3039550E31 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		99589CCA1AD82241AEE8736D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		8732AED256E6CB3039550E31 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		99589CCA1AD82241AEE8736D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		BD072ADA4E54D2DEF02E6B61 /* Pods_Norn_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Norn_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BF77166A579E10D013ACCCE1 /* Norn.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = Norn.podspec; path = ../Norn.podspec; sourceTree = "<group>"; };
+		BF77166A579E10D013ACCCE1 /* Norn.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Norn.podspec; path = ../Norn.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C9AA50BF15D8B34AF10F5513 /* Pods-Norn_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Norn_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Norn_Example/Pods-Norn_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
